@@ -1,6 +1,6 @@
 import csv
 
-csv_path = r'C:\Users\sm051\Desktop\プログラミング\MENTA\課題\課題１\source.csv'
+csv_path = "source.csv"
 
 def search():
     word =input("鬼滅の登場人物の名前を入力してください >>> ")
